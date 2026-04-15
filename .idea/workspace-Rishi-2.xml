@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93294738-9930-4741-8b9e-3e51bcb988fb" name="Changes" comment="4th Feb 26">
+      <change afterPath="$PROJECT_DIR$/condensate_project/images/fig2b_velocity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condensate_project/images/fig2c_ep_distributions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cfl_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/droplet_tracking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/experimental data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/experimental_analysis_summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fig2b_velocity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fig2c_ep_distributions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fig2d_contact_heatmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fig2e_rna_production.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gaussian_source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gaussian_source_2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gaussian_source_crosssection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/interface_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rouse_scaling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rouse_schematic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sparse_laplacian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/verification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods_expanded.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report_new_sections.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/reproduce_figure_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/reproduce_figure_2.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/rishikumar/Library/CloudStorage/OneDrive-ImperialCollegeLondon/Year 3/Group Project/condensate_project" value="398Aip6q8snXeOQksYdXStxYTg2" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rk142-trt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rk142-trt/Y3_Group_Project.git&quot;,
+    &quot;accountId&quot;: &quot;d6cbc287-48af-430f-9770-e3a4a2c46ef4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="398Aip6q8snXeOQksYdXStxYTg2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.data_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_sim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_simulation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rishi/OneDrive - Imperial College London/Year 3/Image Processing/Practicals/Lab4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rishi\OneDrive - Imperial College London\Year 3\Group Project\condensate_project\src" />
+      <recent name="C:\Users\rishi\OneDrive - Imperial College London\Year 3\Group Project\condensate_project" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93294738-9930-4741-8b9e-3e51bcb988fb" name="Changes" comment="" />
+      <created>1770067454284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770067454284</updated>
+      <workItem from="1770067455523" duration="1070000" />
+      <workItem from="1770210536344" duration="7632000" />
+      <workItem from="1770231572792" duration="5727000" />
+      <workItem from="1770252442333" duration="2859000" />
+      <workItem from="1770255338152" duration="386000" />
+      <workItem from="1770256447380" duration="2470000" />
+      <workItem from="1770319142101" duration="5413000" />
+      <workItem from="1770476212777" duration="319000" />
+      <workItem from="1771068916608" duration="4590000" />
+      <workItem from="1771087131959" duration="11522000" />
+      <workItem from="1771110892401" duration="19411000" />
+      <workItem from="1771696897210" duration="5002000" />
+      <workItem from="1771933214150" duration="4309000" />
+      <workItem from="1772456691037" duration="2069000" />
+      <workItem from="1772556591858" duration="10000" />
+      <workItem from="1772556625636" duration="2087000" />
+      <workItem from="1774968651468" duration="1830000" />
+      <workItem from="1775230608795" duration="2836000" />
+      <workItem from="1775315190811" duration="681000" />
+      <workItem from="1775341977245" duration="827000" />
+      <workItem from="1775393743385" duration="644000" />
+      <workItem from="1775395923100" duration="14390000" />
+      <workItem from="1775897095953" duration="653000" />
+    </task>
+    <task id="LOCAL-00001" summary="4th Feb 26">
+      <option name="closed" value="true" />
+      <created>1770218742042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770218742042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4th Feb 26">
+      <option name="closed" value="true" />
+      <created>1771697644778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771697644778</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4th Feb 26">
+      <option name="closed" value="true" />
+      <created>1775393781092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775393781092</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4th Feb 26">
+      <option name="closed" value="true" />
+      <created>1775495501005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775495501005</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4th Feb 26">
+      <option name="closed" value="true" />
+      <created>1775496216096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775496216096</updated>
+    </task>
+    <task id="LOCAL-00006" summary="4th Feb 26">
+      <option name="closed" value="true" />
+      <created>1775497625499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775497625499</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="4th Feb 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th Feb 26" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/phasefield/data_utils.py</url>
+          <line>451</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/condensate_project$data_utils.coverage" NAME="data_utils Coverage Results" MODIFIED="1770291693834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/condensate_project$q.coverage" NAME="q Coverage Results" MODIFIED="1771980638659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks" />
+    <SUITE FILE_PATH="coverage/condensate_project$run_simulation.coverage" NAME="run_simulation Coverage Results" MODIFIED="1770319312530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/condensate_project$run_sim.coverage" NAME="run_sim Coverage Results" MODIFIED="1771069379902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+19:29:26 [INFO] Starting Regime I (Dissolution)
+19:29:26 [INFO]   Grid : 512 x 512
+19:29:26 [INFO]   t_final: 200.0
+19:29:26 [INFO]   dt   : 0.001
+19:29:26 [INFO]   save_interval: 2000
+19:29:26 [INFO]   k_p  : 0.05
+19:29:26 [INFO]   c-(0): 3.51
+02:24:37 [INFO] Simulation complete in 415.2 min (24911 s)
+02:24:37 [INFO] Classified as Regime I
+02:24:37 [INFO] Results saved → /rds/general/user/aak223/home/rna_results/regime_I_results.npz
+21:53:58 [INFO] Starting Regime I (Dissolution)
+21:53:58 [INFO]   Grid : 512 x 512
+21:53:58 [INFO]   t_final: 200.0
+21:53:58 [INFO]   dt   : 5.6843418860808015e-05
+21:53:58 [INFO]   save_interval: 35184
+21:53:58 [INFO]   k_p  : 0.05
+21:53:58 [INFO]   c-(0): 3.51
+07:07:34 [INFO] Starting Regime I (Dissolution)
+07:07:34 [INFO]   Grid : 256 x 256
+07:07:34 [INFO]   t_final: 200.0
+07:07:34 [INFO]   dt   : 0.0009094947017729282
+07:07:34 [INFO]   save_interval: 2199
+07:07:34 [INFO]   k_p  : 0.05
+07:07:34 [INFO]   c-(0): 3.51
+08:22:29 [INFO] Simulation complete in 74.9 min (4494 s)
+08:22:29 [INFO] Classified as Regime I
+08:22:29 [INFO] Results saved → /rds/general/user/aak223/home/rna_results/regime_I_results.npz

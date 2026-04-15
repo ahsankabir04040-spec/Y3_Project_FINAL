@@ -1,0 +1,11 @@
+21:53:57 [INFO] =================================================================
+21:53:57 [INFO] reproduce_figure_1b_2d_hpc.py — Figure 1(b) 2D Simulations
+21:53:57 [INFO] =================================================================
+21:53:57 [INFO] Regimes    : ['I', 'II', 'III', 'IV']
+21:53:57 [INFO] Grid       : 512 x 512
+21:53:57 [INFO] t_final    : per-regime default
+21:53:57 [INFO] Workers    : 4
+21:53:57 [INFO] Output dir : /rds/general/user/aak223/home/rna_results
+21:53:57 [INFO] Parallel   : True
+21:53:57 [INFO] =================================================================
+21:53:57 [INFO] Running regimes IN PARALLEL (4 processes)...

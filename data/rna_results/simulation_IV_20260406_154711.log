@@ -1,0 +1,23 @@
+15:47:11 [INFO] =================================================================
+15:47:11 [INFO] reproduce_figure_1b_2d_hpc.py — Figure 1(b) 2D Simulations
+15:47:11 [INFO] =================================================================
+15:47:11 [INFO] Regimes    : ['IV']
+15:47:11 [INFO] Grid       : 512 x 512
+15:47:11 [INFO] t_final    : per-regime default
+15:47:11 [INFO] Workers    : 4
+15:47:11 [INFO] Output dir : /rds/general/user/aak223/home/rna_results
+15:47:11 [INFO] Parallel   : False
+15:47:11 [INFO] =================================================================
+15:47:11 [INFO] Running regimes SEQUENTIALLY...
+21:38:49 [INFO] 
+21:38:49 [INFO] =================================================================
+21:38:49 [INFO] SIMULATION SUMMARY
+21:38:49 [INFO] =================================================================
+21:38:49 [INFO]   Regime  IV (Directed motion + elongation  ): classified=I, time=351.6 min, snapshots=101
+21:38:49 [INFO]   Total wall time: 351.6 min
+21:38:49 [INFO] =================================================================
+21:38:53 [INFO] Generating figures...
+21:38:55 [INFO]   Saved /rds/general/user/aak223/home/rna_results/regime_IV_snapshots.png
+21:38:55 [INFO]   Saved combined figure → /rds/general/user/aak223/home/rna_results/figure_1b_combined.png
+21:38:55 [INFO] Figure generation complete.
+21:38:55 [INFO] All done.

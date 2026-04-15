@@ -1,0 +1,29 @@
+07:07:32 [INFO] =================================================================
+07:07:32 [INFO] reproduce_figure_1b_2d_hpc.py — Figure 1(b) 2D Simulations
+07:07:32 [INFO] =================================================================
+07:07:32 [INFO] Regimes    : ['I', 'II', 'III', 'IV']
+07:07:32 [INFO] Grid       : 256 x 256
+07:07:32 [INFO] t_final    : per-regime default
+07:07:32 [INFO] Workers    : 4
+07:07:32 [INFO] Output dir : /rds/general/user/aak223/home/rna_results
+07:07:32 [INFO] Parallel   : True
+07:07:32 [INFO] =================================================================
+07:07:32 [INFO] Running regimes IN PARALLEL (4 processes)...
+08:58:28 [INFO] 
+08:58:28 [INFO] =================================================================
+08:58:28 [INFO] SIMULATION SUMMARY
+08:58:28 [INFO] =================================================================
+08:58:28 [INFO]   Regime   I (Dissolution                   ): classified=I, time=74.9 min, snapshots=101
+08:58:28 [INFO]   Regime  II (Renucleation                  ): classified=I, time=77.4 min, snapshots=101
+08:58:28 [INFO]   Regime III (Directed motion               ): classified=I, time=108.5 min, snapshots=101
+08:58:28 [INFO]   Regime  IV (Directed motion + elongation  ): classified=I, time=110.4 min, snapshots=101
+08:58:28 [INFO]   Total wall time: 110.9 min
+08:58:28 [INFO] =================================================================
+08:58:31 [INFO] Generating figures...
+08:58:33 [INFO]   Saved /rds/general/user/aak223/home/rna_results/regime_I_snapshots.png
+08:58:34 [INFO]   Saved /rds/general/user/aak223/home/rna_results/regime_II_snapshots.png
+08:58:36 [INFO]   Saved /rds/general/user/aak223/home/rna_results/regime_III_snapshots.png
+08:58:37 [INFO]   Saved /rds/general/user/aak223/home/rna_results/regime_IV_snapshots.png
+08:58:37 [INFO]   Saved combined figure → /rds/general/user/aak223/home/rna_results/figure_1b_combined.png
+08:58:37 [INFO] Figure generation complete.
+08:58:37 [INFO] All done.

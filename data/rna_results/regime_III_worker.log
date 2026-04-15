@@ -1,0 +1,27 @@
+19:29:26 [INFO] Starting Regime III (Directed motion)
+19:29:26 [INFO]   Grid : 512 x 512
+19:29:26 [INFO]   t_final: 300.0
+19:29:26 [INFO]   dt   : 0.001
+19:29:26 [INFO]   save_interval: 3000
+19:29:26 [INFO]   k_p  : 0.08
+19:29:26 [INFO]   c-(0): 3.53
+03:11:03 [INFO] Simulation complete in 461.6 min (27697 s)
+03:11:03 [INFO] Classified as Regime I
+03:11:03 [INFO] Results saved → /rds/general/user/aak223/home/rna_results/regime_III_results.npz
+21:53:58 [INFO] Starting Regime III (Directed motion)
+21:53:58 [INFO]   Grid : 512 x 512
+21:53:58 [INFO]   t_final: 300.0
+21:53:58 [INFO]   dt   : 5.6843418860808015e-05
+21:53:58 [INFO]   save_interval: 52776
+21:53:58 [INFO]   k_p  : 0.08
+21:53:58 [INFO]   c-(0): 3.53
+07:07:34 [INFO] Starting Regime III (Directed motion)
+07:07:34 [INFO]   Grid : 256 x 256
+07:07:34 [INFO]   t_final: 300.0
+07:07:34 [INFO]   dt   : 0.0009094947017729282
+07:07:34 [INFO]   save_interval: 3298
+07:07:34 [INFO]   k_p  : 0.08
+07:07:34 [INFO]   c-(0): 3.53
+08:56:05 [INFO] Simulation complete in 108.5 min (6511 s)
+08:56:05 [INFO] Classified as Regime I
+08:56:05 [INFO] Results saved → /rds/general/user/aak223/home/rna_results/regime_III_results.npz
